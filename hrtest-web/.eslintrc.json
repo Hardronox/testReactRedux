@@ -1,0 +1,25 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "react/jsx-filename-extension": 0,
+    "no-underscore-dangle": 0,
+    "no-case-declarations": 0,
+    "default-case": 0,
+    "global-require": 0,
+    "no-restricted-syntax": 0,
+    "no-plusplus": 0,
+    "guard-for-in": 0,
+    "max-len": [
+      2,
+      120
+    ],
+    "no-console": 0,
+    "function-paren-newline": 0,
+    "no-undef": 0,
+    "function-paren-newline": 0,
+    "comma-dangle": 0,
+    "import/no-extraneous-dependencies": 0,
+    "import/no-unresolved": 0,
+    "import/extensions": 0
+  }
+}

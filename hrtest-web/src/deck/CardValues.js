@@ -1,0 +1,13 @@
+export const VALUE_2 = '2';
+export const VALUE_3 = '3';
+export const VALUE_4 = '4';
+export const VALUE_5 = '5';
+export const VALUE_6 = '6';
+export const VALUE_7 = '7';
+export const VALUE_8 = '8';
+export const VALUE_9 = '9';
+export const VALUE_10 = '10';
+export const VALUE_J = 'j';
+export const VALUE_Q = 'q';
+export const VALUE_K = 'k';
+export const VALUE_A = 'a';
